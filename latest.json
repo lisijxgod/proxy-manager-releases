@@ -1,8 +1,8 @@
 {
-  "version": "2.5.3",
-  "url": "https://github.com/lisijxgod/proxy-manager-releases/releases/download/v2.5.3/Proxy.Manager.exe",
-  "sha256": "480a8e780e8f7eabd386f72b7e7f6b702917750bb26dd1ab4a03ebb7ae663ef2",
-  "size": 52692158,
-  "signature": "7nfy2Hm3ZoEFZIfkZHjENvh-9AZNvvLI3-oG8xiWK00JZfG6DkKMsTySMb_mwFmsbM-bwJgygdju62d5jPlIDQ",
-  "signature_v2": "tP5B-aJOXzJHQgaOTI9zdXv0FB0zUOCebC6tbSJOGVSqvNDG9Xdo-VxVV8eRk8TAsQEUkBlCOQ6ldEAkFxoaDA"
+  "version": "2.5.4",
+  "url": "https://github.com/lisijxgod/proxy-manager-releases/releases/download/v2.5.4/Proxy.Manager.exe",
+  "sha256": "77e1acd924cbfc2e12e43ca4b8a932dfe50813a369229131410cf13058b73b29",
+  "size": 52691503,
+  "signature": "tSEja4VLCXWSC4oGkuNzQsCvmqPWcOCzrPj1pdrbPS8fCS5nmuoOALnaVj4wLLSWep3DwPaXM3harSKO_OrKCQ",
+  "signature_v2": "acDFa7rXItqZkEDxyrMXxtx-A9wDdbnimzRN2Ut4hcX1a6MGmU7amE1OZMrmuWUXiaq41I3y8BshVo8MTZTABw"
 }
